@@ -1,4 +1,8 @@
 new data line 1
 line 2
 line 3
+<<<<<<< HEAD
 SDN line: this is SDNDD
+=======
+auth line: this is authenticated
+>>>>>>> auth
